@@ -19,4 +19,8 @@ public class Main {
     System.out.println("Denver Blake");
 
   }
+
+  public static void printYashPatel(){
+    System.out.println("Branch- Yash Patel");
+  }
 }
