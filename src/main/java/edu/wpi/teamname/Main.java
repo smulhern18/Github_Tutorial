@@ -1,9 +1,6 @@
 package edu.wpi.teamname;
 
 public class Main {
-  public static void main(String[] args) {
-    System.out.println("Hello");
-  }
 
   public static void main(String[] args) {
     App.launch(App.class, args);
@@ -14,6 +11,8 @@ public class Main {
     System.out.println("Denver Blake");
     System.out.println("Ryan C");
     System.out.println("Megan Throlson")
+    System.out.println("Megan Throlson");
+    System.out.println("Yash Patel");
   }
 
   public static void printDenverBlake() {
