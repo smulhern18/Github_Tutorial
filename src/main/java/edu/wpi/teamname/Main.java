@@ -1,6 +1,13 @@
 package edu.wpi.teamname;
 
 public class Main {
+<<<<<<< HEAD
+  public static void main(String[] args) {
+    System.out.println("Hello");
+  }
+
+=======
+>>>>>>> refs/remotes/origin/master
   public static void main(String[] args) {
     App.launch(App.class, args);
 
@@ -8,6 +15,7 @@ public class Main {
 
     System.out.println("Denver Blake");
     System.out.println("Ryan C");
+    System.out.println("Megan Throlson")
   }
 
   public static void printDenverBlake() {
